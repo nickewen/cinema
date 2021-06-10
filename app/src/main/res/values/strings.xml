@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="get_movies_error_message">There was a problem.</string>
+</resources>
